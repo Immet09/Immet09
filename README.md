@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning Python and C++
-- 🌱 I’m currently learning the mentioned languages
+- 🌱 I’m currently learning Python and C++ 
 - 👯 I’m looking to collaborate on some simple projects which could help learning
 - 📫 How to reach me: Immet.git@gmail.com
 - 😄 Pronouns: he/him
